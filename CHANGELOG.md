@@ -1,5 +1,13 @@
 # Changelog
 
+## [2.0.1](https://github.com/mdn/interactive-examples/compare/v2.0.0...v2.0.1) (2023-03-01)
+
+
+### Bug Fixes
+
+* **css:** Fix 2 contrast issues ([#2452](https://github.com/mdn/interactive-examples/issues/2452)) ([7f7dc1d](https://github.com/mdn/interactive-examples/commit/7f7dc1d3bb9528520fa305d1c1ecb381216fc3af))
+* **css:** Improve contrast for angle ([#2437](https://github.com/mdn/interactive-examples/issues/2437)) ([685a062](https://github.com/mdn/interactive-examples/commit/685a062b857da427b7ae0322b3121e9b45535f8f))
+
 ## [2.0.0](https://github.com/mdn/interactive-examples/compare/v1.0.4...v2.0.0) (2023-02-24)
 
 
